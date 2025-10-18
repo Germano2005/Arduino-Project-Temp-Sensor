@@ -13,3 +13,4 @@ E isso tudo usando os seguintes componentes
 * Motor com micro servo
 * Protoboard
 
+![project](project.png)
